@@ -1,0 +1,79 @@
+
+
+body
+{
+	font-family: 'arial','Varela Round', 'sans-serif';
+	
+}
+header 
+{
+	margin-top:-10px;
+	margin-left:-10px;
+	width: 102%;
+	background:  #35424a;
+	min-height: 80px;
+	opacity: 0.7;
+}
+
+.container{
+	text-align: center;
+	color: white;
+	width: 100%;
+  	margin: auto;
+  	overflow: hidden;
+}
+.login-panel{
+	text-align: center;
+	margin-top:90px;
+	margin-left: 500px;
+
+}
+.label1{
+	margin-left: 20px;
+	color:white;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.label2{
+
+	color:white;
+	font-weight: bold;
+	font-size: 20px;
+}
+.login-btn
+{
+
+	margin-left: 30px;
+	border-radius: 3px;
+	border:none;
+	color: black;
+	background:lightblue;
+	height: 30px;
+	width: 100px;
+}
+
+.submit
+{
+	padding:30px; 
+    margin-top:50px;
+   height:300px;
+   width: 300px;
+   background:#35424a;
+   color:white;
+}
+.submit .user
+{
+	margin-top: 40px;
+}
+
+.admin-icon
+{
+   margin-top: -30%;
+   height: 130px;
+   width: 130px;
+}
+
+
+
+

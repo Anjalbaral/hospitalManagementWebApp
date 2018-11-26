@@ -1,0 +1,54 @@
+.login-panel
+{
+ background:none;
+ width:100%;
+ text-align: center;
+ min-height: 400px;
+padding-top: 80px;
+
+}
+.login-btn
+{
+
+	margin-left: 30px;
+	border-radius: 3px;
+	border:none;
+	color: black;
+	background:lightblue;
+	height: 30px;
+	width: 100px;
+}
+.submit input
+{
+	margin-top: 30px;
+}
+
+.submit
+{
+	background:#35424a;
+	width: 30%; 
+	height: 400px;
+	margin-left: 500px;
+
+
+}
+header
+{
+	background:#35424a;
+	text-align: center; 
+	width: 101.5%;
+	height: 100px;
+	padding-top: 10px;
+	margin-top: -30px;
+	margin-left: -10px;
+
+}
+.submit img
+{
+	margin-top:-60px;
+	
+}
+body
+{
+font-family: 'Graduate', 'arial','cursive';
+}

@@ -1,0 +1,77 @@
+#nav
+{
+	background:#35424a;
+	width: 15%;
+	height: 1000px;
+   	color:white;
+   	opacity: 1;
+   	transition: all 500ms linear;
+}
+#nav ul li:hover
+{
+ background:#485a66;
+}
+#nav a:hover
+{
+	color: #cccccc;
+}
+body
+{
+	font-family: 'arial','Graduate', 'cursive';
+}
+*
+{
+	padding:0;
+}
+
+#nav ul
+{
+	list-style-type: none;
+	margin: 0;
+}
+
+#nav ul li
+{
+	border-bottom: 1px solid rgba(100,100,100,0.5);
+
+}
+
+.adminprofile
+{
+	font-size:13px;
+	color: white;
+	text-decoration: none;
+}
+.newstaff
+{
+	font-size:13px; 
+	color: white;
+	text-decoration: none;
+}
+.staffprofile
+{
+	font-size:13px; 
+	color: white;
+	text-decoration: none;
+}
+.doctorprofile
+{
+	font-size:13px; 
+	color: white;
+	text-decoration: none;
+}
+.PatientList
+{
+	font-size:13px; 
+	color: white;
+	text-decoration: none;
+}
+body
+{
+		margin: 0;
+		padding: 0;
+		font-family: 'Graduate', cursive;
+		background: url('../img/trelloback3.png');
+		max-width: 100%;
+		height: auto;
+}

@@ -1,0 +1,65 @@
+#nav
+{
+	background:#35424a;
+	width: 15%;
+	height: 700px;
+	margin-top: -40px;
+	margin-left: -10px;
+	padding-left: 10px;
+	padding-top: 20px;
+   	color:white;
+   	opacity: 1;
+   	transition: all 500ms linear;
+   
+}
+#nav ul li:hover
+{
+ background:#485a66;
+}
+#nav a:hover
+{
+	color: #cccccc;
+}
+#nav ul
+{
+	
+}
+*
+{
+	padding:0;
+}
+
+#nav ul li
+{
+	border-bottom: 1px solid rgba(100,100,100,0.5);
+
+}
+.doctorprofile
+{
+	font-size:13px;
+	color: white;
+	text-decoration: none;
+}
+.patientreport
+{
+	font-size:13px; 
+	color: white;
+	text-decoration: none;
+}
+.staffprofile
+{
+	font-size:13px; 
+	color: white;
+	text-decoration: none;
+}
+.PatientList
+{
+	font-size:13px; 
+	color: white;
+	text-decoration: none;
+}
+body
+{
+		font-family: 'Graduate', cursive;
+		background: url('../img/trelloback5.png');
+}

@@ -1,0 +1,29 @@
+header
+{
+	
+	width: 103%;
+	margin-left: -10px;
+	height: 100px;
+	text-align: center;
+    padding: 30px;
+}
+.inp
+{
+	width: 850px;
+	height: 30px;
+	border-radius: 20px;
+	outline: none;
+}
+.btn
+{
+	height: 30px;
+	width: 80px;
+	border:none;
+	border-radius: 5px;
+	outline: none;
+}
+body
+{
+	background: lightblue;
+	background-position: center top; 
+}
